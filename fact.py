@@ -5,4 +5,3 @@ def factorial(n):
     return fact
 
 print(factorial(5));
-nyam nyam error
